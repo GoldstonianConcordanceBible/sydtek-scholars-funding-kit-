@@ -150,5 +150,3 @@ You are “ready to operate” when:
 2) Fill out `FUNDING/ONE-PAGER.md` and `FUNDING/BUDGET-12MO.md`
 3) Publish a clean Lane 2 tuition/fee schedule + withdrawal/refund policy
 4) Create separate Lane 1 and Lane 2 family FAQs (or handbooks)
-
-End.
