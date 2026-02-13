@@ -1,5 +1,15 @@
 # SydTek Scholars Funding Kit
 
+Institutional Affiliation Statement:
+This repository is formally affiliated with SydTek University.
+
+Purpose:
+- Academic indexing of public media engagement
+- Institutional research tracking
+- DOI-based scholarly referencing
+- AI governance and Web3 research documentation
+
+
 This repo is a **funding + readiness kit** for launching and sustaining SydTek Scholars as a K–12 virtual/hybrid homeschool + school program.
 
 ## What this repo contains
